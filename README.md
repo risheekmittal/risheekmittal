@@ -9,7 +9,6 @@ I am Risheek! I am working on projects related to Flutter.
 - 🌐 Visit my [porfolio website](https://github.com/risheekmittal/) for complete background and contact.
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=risheekmittal&show_icons=true&theme=radical&line_height=33">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=risheekmittal&hide_langs_below=.25&theme=radical">
 </p>
 
