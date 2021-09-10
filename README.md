@@ -8,7 +8,7 @@ I am Risheek! I am working on projects related to Flutter.
 - 🤝 Looking for collaborations in Mobile/Web/Desktop/Game Development.
 - 🌐 Visit my [porfolio website](https://github.com/risheekmittal/) for complete background and contact.
 
-<p align = "center">
+<p>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=risheekmittal&hide_langs_below=.25&theme=radical">
 </p>
 
